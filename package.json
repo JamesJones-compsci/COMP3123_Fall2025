@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "100898394_COMP3123-exec04",
   "version": "1.0.0",
   "scripts": {
@@ -11,4 +12,14 @@
   "devDependencies": {
     "nodemon": "^3.0.0"
   }
+=======
+  "name": "Week1Lab_Fall2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+>>>>>>> 340d6502b0f661e25bf55fc4deb7dbfc30f05205
 }

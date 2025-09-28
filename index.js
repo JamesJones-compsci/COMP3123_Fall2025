@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 1. Import Express
 const express = require("express");
 
@@ -45,3 +46,6 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>
   console.log(`🚀 Server running on http://localhost:${PORT}`)
 );
+=======
+console.log('Happy developing ✨')
+>>>>>>> 340d6502b0f661e25bf55fc4deb7dbfc30f05205
